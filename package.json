@@ -1,0 +1,10 @@
+{
+  "name": "vwo-tableau-powerbi-executive-readout-pack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Executive readout pack that turns VWO experiments into Tableau and Power BI decision evidence.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
